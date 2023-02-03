@@ -3,7 +3,7 @@
 # Professional Development Independent Study- Spring 2023 
 ## Prof Knox and Prof State
 
-###Introduction
+### Introduction
 
 The purpose of this professional development independent study is to develop skills that will be useful in the professional world. The specific implementation being use of the exercism.org C++ track to develop coding skills to complement the Data Structures class that I am currently taking that also uses the C++ language. 
 
