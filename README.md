@@ -24,3 +24,5 @@ One major lesson learned was I initially treated this site as something like zyb
 
 
 Worked through the Triangle exercise. I was able to find other solutions and things I leard looking at their solutions: Declaring an "enum class" of flavor to create the results for equalateral, isosceles, scalene and including <stdexcept> to throw exceptions if any of the requirements of a triangle are violated after I created tests for them. Again, I'm curious how exercism expects me to learn these issues without any reference to other solutions or hints as to what to research. It's a bit frustrating. 
+
+This [introduction](https://youtu.be/9RL8ZssWg5Q) to exercism C++ was added a few days ago and I wish it had existed the whole time. Gave some great resources and a coding demo that explained both the idea of improving in iteration and how much more efficient the "Reverse String" exercise could be solved. I guess part of my student mindset from 2270 is we are building the structures and algorithms as opposed to using built in which is probably making things more difficult than they should be. 
